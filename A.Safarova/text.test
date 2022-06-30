@@ -1,0 +1,10 @@
+Very Importent  Text!!!!!
+1) fork
+2) clone версии к себе на компьютер
+3) добавить папку со своей фамилией
+4) добавить в папку text.txt файл
+5) git add .
+6) git commit -m "add my folder"
+7) git push
+8) pull request
+9) ставим + в чат
